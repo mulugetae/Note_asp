@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F37B98B7-C18D-41AD-91DA-5F9993AC44A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Note_asp/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Note_asp/Program.cs" Line="16" Column="1" />
+      <File FileName="Note_asp/Views/_ViewStart.cshtml" />
+      <File FileName="Note_asp/Views/_ViewImports.cshtml" />
+      <File FileName="Note_asp/Controllers/HomeController.cs" Line="10" Column="31" />
+      <File FileName="Note_asp/Views/Home/Index.cshtml" />
+      <File FileName="Note_asp/Views/Home/Privacy.cshtml" />
+      <File FileName="Note_asp/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Note_asp" expanded="True">
+            <Node name="Note_asp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Note__asp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
